@@ -1,3 +1,0 @@
-/home/parallel_computing/Parallel-Computing/build/CMakeFiles/simple.dir
-/home/parallel_computing/Parallel-Computing/build/CMakeFiles/edit_cache.dir
-/home/parallel_computing/Parallel-Computing/build/CMakeFiles/rebuild_cache.dir
